@@ -1,0 +1,22 @@
+Fundamentos de Engenharia de Software
+Aluna: Thamires Lopes das Mercês
+
+2.6. 
+Mito 1: Engenharia de Software é algo dispensável.
+Realidade: Um projeto será muito melhor desenvolvido se seguir os processos de engenharia de software.
+Mito 2: Quanto mais gente no desenvolvimento de um processo, mais bagunçado ele é.
+Realidade: Dependendo do projeto, várias pessoas com diferentes habilidades serão necessárias, a questão de como cada equipe se organizará dependerá de como essas equipes abordaram os processos de engenharia de software.
+
+4.6.
+Sim, é possível, ele é chamado de "Concurrent models" ou "concurrent development model". Exemplo: O modelo chamado "spiral model" é realizado com uma ou mais das seguintes ações de engenharia de software: prototipagem, análise e design.
+
+5.7.
+Os requisitos mudam bastante pois a economia moderna e o mercado mudam muito rapidamente também, as necessidades dos usuários finais e dos clientes mudam e precisam de evolução. Outro fator que pode fazer os requisitos mudarem bastante é o má levantamento dos mesmos no começo do processo de desenvolvimento, por isso é necessário prestar bastante atenção na engenharia de requisitos.
+
+6.7.
+A maior autonomia que as equipes que trabalham em equipes ágeis tem.
+
+7.10.
+
+10.7.
+É um jeito de categorizar os vários elementos de um modelo de requisitos, agrupando-os e dando um nome representativo.
