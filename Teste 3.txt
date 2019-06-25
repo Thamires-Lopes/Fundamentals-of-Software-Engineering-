@@ -1,0 +1,22 @@
+Universidade Federal Rural de Pernambuco
+Fundamentos de Engenharia de Software
+Aluna: Thamires Lopes das Mercês
+
+31.9. A estrutura do time seria a "open paradigma", já que para esse tipo de software será preciso inovação, mas também um certo controle do time e de tempo devido ao prazo de entrega e forte comunicação. O modelo de processo de software escolhido seria o "concurrent development model", já que com ele podemos utilizar o melhor de cada tipo de modelo de software de acordo com a necessidade do sistema.
+
+32.6. Esse tipo de medida penaliza softwares pequenos, porém bem escritos, como também não acomoda facilmente linguagens não procedurais e seu uso requer um nível de detalhamento que muitas vezes será difícil de ser alcançado. Sim, pois vários projetos bem desenvolvidos são pequenos em termos de linhas de código, mas altamente bem desenvolvidos.
+
+33.2. Lista:
+- Familiaridade dos desenvolvedores com o tipo de projeto;
+- Tamanho do projeto;
+- Grau de incerteza estrutural;
+- Orçamento.
+
+34.5. A adição de pessoas em projetos que já estão em desenvolvimento pode acontecer quando essas mesmas pessoas já tem algum conhecimento desse projeto e não precisarão que as que já estão no projeto as ensinem.
+
+35.5. Tabela de riscos:
+- Falta de familiaridade com o projeto (crítico - 80%): Deve ser feito um amplo estudo sobre o projeto e com isso os requisitos devem ser bem definidos.
+- Problemas com a linguagem escolhida (crítico - 50%): Devem ser feitos estudos sobre a linguagem.
+- Falha na comunicação (catastrófico - 50%): Os canais de comunicação devem ser bem definidos. 
+
+36.7. Cada vez que o level de abstração de um software aumenta fica mais difícil lidar com ele como um todo, devido ao seu tamanho (tende a aumentar com o passar do tempo), também devido a mudanças ocorridas nas tecnologias (o que faz ser necessário mudanças no projeto), mudanças na equipe de desenvolvimento ao longo do tempo e o aumento dos gastos (já que fazer correções e mudanças vão ficando mais caras com o decorrer do projeto).
